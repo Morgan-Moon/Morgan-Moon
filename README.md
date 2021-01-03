@@ -33,4 +33,5 @@
 
 ---
 <br />
-<img align="left" alt="Morgan-Moon's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Morgan-Moon&show_icons=true&hide_border=true&count_private=true&hide=contribs,prs" />
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
