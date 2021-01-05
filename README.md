@@ -34,4 +34,11 @@
 ---
 <br />
 <!--START_SECTION:waka-->
+```text
+Blade Template   6 hrs 12 mins   ██████████░░░░░░░░░░░░░░░   40.44 % 
+SCSS             3 hrs 31 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.95 % 
+JavaScript       2 hrs 16 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+PHP              1 hr 49 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+Other            24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+```
 <!--END_SECTION:waka-->
