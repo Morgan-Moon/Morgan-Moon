@@ -37,7 +37,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-
+Vue.js           2 hrs 44 mins   ████████░░░░░░░░░░░░░░░░░   31.71 % 
+Blade Template   1 hr 45 mins    █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
+Other            1 hr 11 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+TypeScript       1 hr 2 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+SCSS             48 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
 ```
 <!--END_SECTION:waka-->
 </p>
