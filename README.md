@@ -37,11 +37,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Vue.js       1 hr 21 mins    ████████████▓░░░░░░░░░░░░   50.82 % 
-TypeScript   34 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.59 % 
-JavaScript   21 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.26 % 
-Other        11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
-Lua          4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 </p>
