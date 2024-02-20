@@ -1,10 +1,10 @@
-### Hey you! Looks like you've found my Github.. I'm [Morgan](https://morgan-lee.cc) 👋
+### Hey you! Looks like you've found my GitHub.. I'm [Morgan](https://morgan-lee.cc) 👋
 
-## I'm a Retail Worker, Developer, Designer, and Freelancer!
+## I'm a Hotel Manager, Developer, Designer, and Freelancer!
 - 🔭 I’m currently working on a [Laravel Application](https://tbdscripts.com) called Cosmo!
 - 🌱 I’m currently learning everything 🍀
 - 💬 Ask me about anything I specialize in
-- 📫 Look below to if you're wanting to reach me
+- 📫 Look below to if you want to reach me
 - 🎨 2020 Goals: Improve my design knowledge
 - 👨‍✈️ Fun fact: I want to get my PPL (Private Pilot's License)
 
