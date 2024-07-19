@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-Hi, I'm [Morgan](https://morgan-lee.cc)! I'm a versatile individual with interests ranging from hotel management to development and design. Feel free to explore my repositories and get in touch if you'd like to collaborate or have any questions!
+Hi, I'm [Morgan](https://morgan-lee.dev)! I'm a versatile individual with interests ranging from hotel management to development and design. Feel free to explore my repositories and get in touch if you'd like to collaborate or have any questions!
 
 ---
 
