@@ -16,7 +16,7 @@ Hi, I'm [Morgan](https://morgan-lee.cc)! I'm a versatile individual with interes
 
 ## 📬 Connect with Me
 
-[![Website](https://img.shields.io/badge/Website-Visit-brightgreen)](https://morgan-lee.cc)  
+[![Website](https://img.shields.io/badge/Website-Visit-brightgreen)](https://morgan-lee.dev)  
 [![Twitter](https://img.shields.io/badge/Twitter-%40Morgan_Lee_Moon-1DA1F2)](https://twitter.com/Morgan_Lee_Moon)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Morgan%20Moon-0077B5)](https://www.linkedin.com/in/morgan-moon-0117451b2/)
 
