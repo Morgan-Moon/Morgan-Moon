@@ -40,14 +40,13 @@ Hi, I'm [Morgan](https://morgan-lee.cc)! I'm a versatile individual with interes
 
 ## 📊 My GitHub Stats
 
-![Morgan's GitHub stats](https://github-readme-stats.vercel.app/api?username=morganlee&show_icons=true&theme=radical)
+![Morgan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Morgan-Moon&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=morganlee&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Morgan-Moon&layout=compact&theme=radical)
 
 ---
 
 ## ⏳ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
+<!--END_SECTION:waka-->
