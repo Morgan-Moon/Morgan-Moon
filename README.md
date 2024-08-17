@@ -38,6 +38,8 @@ Hi, I'm [Morgan](https://morgan-lee.dev)! I'm a versatile individual with intere
 
 ---
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/294197961112682498)](https://discord.com/users/294197961112682498)
+
 ## 📊 My GitHub Stats
 
 ![Morgan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Morgan-Moon&show_icons=true&theme=radical)
