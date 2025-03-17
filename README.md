@@ -38,7 +38,7 @@ Hi, I'm [Morgan](https://morgan-lee.dev)! I'm a versatile individual with intere
 
 ---
 
-[![Discord Presence](https://api.lanyard.rest/v1/users/294197961112682498)](https://discord.com/users/294197961112682498)
+![Discord Presence](https://api.lanyard.rest/v1/users/294197961112682498)
 
 ## 📊 My GitHub Stats
 
