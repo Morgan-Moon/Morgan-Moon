@@ -24,4 +24,11 @@ Web & Node.js developer based in the UK. I build web apps and Discord bots at [M
 #### This week in code
 
 <!--START_SECTION:waka-->
+
+```txt
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
