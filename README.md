@@ -4,8 +4,6 @@ Web & Node.js developer based in the UK. I build web apps and Discord bots at <a
 
 <a href="https://monova.studio"><img src="assets/button-website.svg" height="36" alt="Website" /></a> <a href="mailto:hello@monova.studio"><img src="assets/button-mail.svg" height="36" alt="Mail" /></a> <a href="https://monova.studio/contact"><img src="assets/button-contact.svg" height="36" alt="Contact" /></a>
 
-[X](https://x.com/Morgan_lee_Moon) · [LinkedIn](https://www.linkedin.com/in/morgan-moon-0117451b2/)
-
 <br>
 
 <picture>
