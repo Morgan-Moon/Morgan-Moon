@@ -7,9 +7,9 @@ Web & Node.js developer based in the UK. I build web apps and Discord bots at [M
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,vue,nuxtjs,tailwind,nodejs,supabase,postgres,redis,docker&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,vue,nuxtjs,tailwind,nodejs,supabase,postgres,redis,docker&theme=light" />
-  <img alt="TypeScript, Vue, Nuxt, Tailwind CSS, Node.js, Supabase, PostgreSQL, Redis, Docker" src="https://skillicons.dev/icons?i=ts,vue,nuxtjs,tailwind,nodejs,supabase,postgres,redis,docker" height="40" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,vue,nuxtjs,react,tailwind,nodejs,php,laravel,postgres,supabase,redis,docker,git,github,vscode&perline=8&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,vue,nuxtjs,react,tailwind,nodejs,php,laravel,postgres,supabase,redis,docker,git,github,vscode&perline=8&theme=light" />
+  <img alt="TypeScript, JavaScript, Vue, Nuxt, React, Tailwind CSS, Node.js, PHP, Laravel, PostgreSQL, Supabase, Redis, Docker, Git, GitHub, VS Code" src="https://skillicons.dev/icons?i=ts,js,vue,nuxtjs,react,tailwind,nodejs,php,laravel,postgres,supabase,redis,docker,git,github,vscode&perline=8" width="442" />
 </picture>
 
 <br>
