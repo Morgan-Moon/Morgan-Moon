@@ -1,15 +1,17 @@
-### Hi, I'm Morgan 👋
+### <img src="assets/morgan-mark.svg" width="30" height="30" align="absmiddle" alt="" />&nbsp;Hi, I'm Morgan 👋
 
-Web & Node.js developer based in the UK. I build web apps and Discord bots at [Monova Studio](https://monova.studio), mostly in TypeScript, Vue and Nuxt.
+Web & Node.js developer based in the UK. I build web apps and Discord bots at <a href="https://monova.studio"><img src="assets/monova-app-icon.svg" width="18" height="18" align="absmiddle" alt="" /></a> [Monova Studio](https://monova.studio), mostly in TypeScript, Vue and Nuxt.
 
-[Website](https://monova.studio) · [X](https://x.com/Morgan_lee_Moon) · [LinkedIn](https://www.linkedin.com/in/morgan-moon-0117451b2/)
+<a href="https://monova.studio"><img src="assets/button-website.svg" height="36" alt="Website" /></a> <a href="mailto:hello@monova.studio"><img src="assets/button-mail.svg" height="36" alt="Mail" /></a> <a href="https://monova.studio/contact"><img src="assets/button-contact.svg" height="36" alt="Contact" /></a>
+
+[X](https://x.com/Morgan_lee_Moon) · [LinkedIn](https://www.linkedin.com/in/morgan-moon-0117451b2/)
 
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,vue,nuxtjs,react,tailwind,nodejs,php,laravel,postgres,supabase,redis,docker,git,github,vscode&perline=8&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,vue,nuxtjs,react,tailwind,nodejs,php,laravel,postgres,supabase,redis,docker,git,github,vscode&perline=8&theme=light" />
-  <img alt="TypeScript, JavaScript, Vue, Nuxt, React, Tailwind CSS, Node.js, PHP, Laravel, PostgreSQL, Supabase, Redis, Docker, Git, GitHub, VS Code" src="https://skillicons.dev/icons?i=ts,js,vue,nuxtjs,react,tailwind,nodejs,php,laravel,postgres,supabase,redis,docker,git,github,vscode&perline=8" width="442" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Cvue%2Cnuxtjs%2Creact%2Ctailwind%2Cnodejs%2Cphp%2Claravel%2Cpostgres%2Csupabase%2Credis%2Cdocker%2Cgit%2Cgithub%2Cvscode&perline=8&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Cvue%2Cnuxtjs%2Creact%2Ctailwind%2Cnodejs%2Cphp%2Claravel%2Cpostgres%2Csupabase%2Credis%2Cdocker%2Cgit%2Cgithub%2Cvscode&perline=8&theme=light" />
+  <img alt="TypeScript, JavaScript, Vue, Nuxt, React, Tailwind CSS, Node.js, PHP, Laravel, PostgreSQL, Supabase, Redis, Docker, Git, GitHub, VS Code" src="https://skillicons.dev/icons?i=ts%2Cjs%2Cvue%2Cnuxtjs%2Creact%2Ctailwind%2Cnodejs%2Cphp%2Claravel%2Cpostgres%2Csupabase%2Credis%2Cdocker%2Cgit%2Cgithub%2Cvscode&perline=8" width="442" />
 </picture>
 
 <br>

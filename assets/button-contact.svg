@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="36" viewBox="0 0 120 36" role="img" aria-label="Contact">
+  <rect x="0.5" y="0.5" width="119" height="35" rx="8" fill="#0B0B0F" stroke="#2E2E38"/>
+  <g transform="translate(14 10)" fill="none" stroke="#FF5C7A" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M4.25 2.5h7.5a2 2 0 0 1 2 2v4.75a2 2 0 0 1-2 2H7.6l-3.1 2.5v-2.5h-.25a2 2 0 0 1-2-2V4.5a2 2 0 0 1 2-2z"/></g>
+  <text x="39" y="22.3" fill="#F5F5F2" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1.2" textLength="66" lengthAdjust="spacing">CONTACT</text>
+</svg>
