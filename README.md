@@ -26,13 +26,13 @@ Web & Node.js developer based in the UK. I build web apps and Discord bots at <a
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 3 hrs 32 mins
+Total Time: 1 hr 25 mins
 
-Markdown     1 hr 38 mins          ███████████▓░░░░░░░░░░░░░   46.31 %
-TypeScript   1 hr 33 mins          ███████████░░░░░░░░░░░░░░   44.12 %
-YAML         16 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 %
-CSS          1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
-Python       1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+Markdown     1 hr 2 mins           ██████████████████▒░░░░░░   72.81 %
+YAML         16 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.89 %
+TypeScript   4 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
+CSS          1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+Python       1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
 ```
 
 <!--END_SECTION:waka-->
